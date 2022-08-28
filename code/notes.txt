@@ -2,6 +2,10 @@ Sample Website that i might follow
 
 https://www.usgs.gov/faqs/when-did-dinosaurs-become-extinct
 
+Collapsing Box:
+
+https://www.w3schools.com/howto/howto_js_collapsible.asp
+
 
 What does it take to take care of a ferret?
 
